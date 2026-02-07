@@ -142,7 +142,4 @@ python main.py
 
 
 
-```
 
-If you want a **1-page minimal README**, or **LLM / research-oriented version**, say which one.
-```

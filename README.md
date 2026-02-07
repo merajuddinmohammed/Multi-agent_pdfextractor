@@ -1,7 +1,4 @@
-Below is the **raw Markdown (`README.md`)**.
-You can copy-paste this **as-is** into `README.md`.
 
-```md
 # Multi-Agent PDF Extractor
 
 A modular, multi-agent system for extracting, cleaning, and structuring information from PDF documents.  

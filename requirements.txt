@@ -1,0 +1,8 @@
+pyautogen>=0.10
+autogen-ext[openai]
+python-dotenv
+openai
+fastapi
+uvicorn[standard]
+python-multipart
+PyMuPDF
